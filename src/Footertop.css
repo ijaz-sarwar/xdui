@@ -1,0 +1,25 @@
+.footertop {
+  background-color: rgb(58, 52, 52);
+  color: white;
+  height: auto;
+  padding-bottom: 10px;
+}
+.about_p {
+  padding-left: 80px;
+
+  font-size: large;
+}
+.about {
+  padding-top: 80px;
+  padding-left: 80px;
+}
+.footerpading {
+  padding-top: 40px;
+}
+.line_break {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.break {
+  color: aliceblue;
+}
